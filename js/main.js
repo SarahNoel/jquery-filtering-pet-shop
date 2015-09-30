@@ -14,12 +14,12 @@
 //Forest Background
   $('.forest').on('click', function(){
     $('body').css({
-      'background-image': 'url(img/chevron.jpg)',
+      'background-image': 'url("http://www.rascaldoglitterbox.com/sitebuilder/images/GRASS_BLADE.SKY_FOR_WEBSITE-850x389.jpg")',
       'background-size':'cover'
     });
   });
 
-  $('.forest').css("background-image", 'url(img/chevron.jpg)');
+  $('.forest').css("background-image", 'url("http://www.rascaldoglitterbox.com/sitebuilder/images/GRASS_BLADE.SKY_FOR_WEBSITE-850x389.jpg"');
 
   $('.textures').css("width", "150px");
 

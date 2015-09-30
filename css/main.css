@@ -7,7 +7,7 @@ body {
   padding: 0px;
 }
 body {
-  background-image: url('http://www.rascaldoglitterbox.com/sitebuilder/images/GRASS_BLADE.SKY_FOR_WEBSITE-850x389.jpg');
+  background-image: url('../img/chevron.jpg');
   background-size: cover;
   font-family: 'Muli', sans-serif;
 }
@@ -117,6 +117,7 @@ article.pet {
   height: 195px;
 }
 
+
 .pet h4 {
   margin: 0px 0px 50px;
   color: rgba(0,0,0,0.6);
@@ -148,6 +149,6 @@ span.dark {
   background: url("../img/trees.jpg") no-repeat;
 }
 span.light {
-  background: url("http://www.rascaldoglitterbox.com/sitebuilder/images/GRASS_BLADE.SKY_FOR_WEBSITE-850x389.jpg") no-repeat;
+  background: url("../img/chevron.jpg") no-repeat;
 }
 /* add custom styles */
